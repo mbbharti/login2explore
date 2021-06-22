@@ -41,11 +41,11 @@
 <img src="ScreenShots/dashboard.PNG" width="600" height="350" >
 
 2.
-<img src="screenShots/create.PNG" width="600" height="350" >
+<img src="ScreenShots/create.PNG" width="600" height="350" >
 
 3.
-<img src="screenShots/update.PNG" width="600" height="350" >
+<img src="ScreenShots/update.PNG" width="600" height="350" >
 
 4.
-<img src="screenShots/delete.PNG" width="600" height="350" >
+<img src="ScreenShots/delete.PNG" width="600" height="350" >
 
