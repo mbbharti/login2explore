@@ -1,0 +1,15 @@
+.container > h2 > a{
+    background-color: rgb(230, 245, 215);
+    font-size: 20px;
+    padding: 5px;
+    color: black;
+    margin: 2px;
+    border-radius: 4px;
+    text-decoration: none;
+
+}
+.container > h2 > a:hover{
+    background-color: rgb(33, 87, 87);
+    color: white;
+    box-shadow: 1px 1px 1px 1px rgb(252, 210, 210);
+}

@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(177, 219, 205);
+}
+
+center > h1{
+    font-size: 3rem;
+    font-weight: 800;
+    font-family: cursive;
+    
+}
+center > input {
+    height: 25px;
+    width: 30%;
+    border: none;
+    outline: none;
+    box-shadow: 1px 1px 1px 1px gray;
+    font-size: 20px;
+    font-family: cursive;
+}
+center > input:hover{
+    box-shadow: 2px 2px 2px 2px rgb(77, 69, 69);
+}
+
+center > p{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 30px;
+    color: cadetblue;
+}
